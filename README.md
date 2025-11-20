@@ -5,7 +5,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordana-code&show_icons=true&theme=tokyonight&title_color=8A2BE2&text_color=ffffff&icon_color=1E90FF&bg_color=0d1117)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordana-codeg&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordana-code&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117)
 
 </div>
 
