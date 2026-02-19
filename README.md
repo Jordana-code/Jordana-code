@@ -2,15 +2,11 @@
 
 ###
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordana-code&show_icons=true&theme=tokyonight&title_color=8A2BE2&text_color=ffffff&icon_color=1E90FF&bg_color=0d1117)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordana-code&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117)
-
-</div>
+<p align="left">Sobre Mim:<br>Sou estudante de Engenharia de Software, dedicada ao desenvolvimento de soluções tecnológicas e ao aprimoramento contínuo de minhas competências na área de programação e análise de sistemas.<br>• 	Formação em andamento, com foco em fundamentos de engenharia de software e boas práticas de desenvolvimento.<br>• 	Interesse em áreas como desenvolvimento web, inteligência artificial e arquitetura de software.<br>• 	Valorizo o trabalho colaborativo e a troca de conhecimento em projetos de equipe.</p>
 
 ###
 
+###
 
 ---
 
@@ -24,6 +20,7 @@
 </div>
 
 ---
+
 <div>
   <a href="https://www.linkedin.com/in/jordana-moreira-6a5b81380/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
