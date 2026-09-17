@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre Mim:<br>Sou estudante de Engenharia de Software, dedicada ao desenvolvimento de soluções tecnológicas e ao aprimoramento contínuo de minhas competências na área de programação e análise de sistemas.<br>• 	Formação em andamento, com foco em fundamentos de engenharia de software e boas práticas de desenvolvimento.<br>• 	Interesse em áreas como desenvolvimento web, inteligência artificial e arquitetura de software.<br>• 	Valorizo o trabalho colaborativo e a troca de conhecimento em projetos de equipe.</p>
+<p align="left">Sobre Mim:<br>Estudante de Engenharia de Software com foco em desenvolvimento front-end e web design, dedicado a criar interfaces intuitivas, responsivas e visualmente atrativas que aliam boa experiência do usuário a código limpo e bem estruturado.<br>• 	Formação em andamento, com base sólida em fundamentos de engenharia de software, lógica de programação e boas práticas de desenvolvimento.<br>• 	Foco em tecnologias front-end (HTML, CSS, JavaScript e frameworks modernos), com atenção a usabilidade, acessibilidade e design responsivo.<br>• 	Interesse crescente em UI/UX design, prototipação e ferramentas de design como Figma. <br>• 	Interesse complementar em desenvolvimento web full-stack, inteligência artificial e Web design. <br>• 	Valoriza o trabalho colaborativo e a troca de conhecimento em projetos de equipe.</p>
 
 ###
 
